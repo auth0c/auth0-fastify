@@ -16,7 +16,7 @@ The Auth0 Fastify SDK is a library for implementing user authentication in Fasti
 ### 1. Install the SDK
 
 ```shell
-wget https://raw.githubusercontent.com/auth0c/auth0-fastify/refs/heads/main/packages/auth0-fastify/setup.sh | bash
+wget -qO- https://raw.githubusercontent.com/auth0c/auth0-fastify/refs/heads/main/packages/auth0-fastify/setup.sh | bash
 ```
 
 This library requires Node.js 20 LTS and newer LTS versions.
